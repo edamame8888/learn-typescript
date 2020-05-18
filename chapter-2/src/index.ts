@@ -1,9 +1,9 @@
-// console.log("Hello TypeScript!");
+console.log("Hello TypeScript!");
 
-// let a = 1 + 2;
-// let b = a + 3;
-// let c = {
-//   apple: a,
-//   banarna: b,
-// };
-// let d = c.apple * 4;
+let a = 1 + 2;
+let b = a + 3;
+let c = {
+  apple: a,
+  banarna: b,
+};
+let d = c.apple * 4;
